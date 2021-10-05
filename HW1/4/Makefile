@@ -1,5 +1,5 @@
 #
-# Makefile for ADD_YOUR_PROGRAM_NAME_HERE
+# Makefile for HW1-4
 #
 # The Build Rules for This Program
 #
